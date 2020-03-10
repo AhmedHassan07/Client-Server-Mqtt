@@ -1,0 +1,12 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/Client/node_modules
+/Client/package-lock.json
+/Client/combined.log
+/Client/error.log
+
+/Server/node_modules
+/Server/package-lock.json
+/Server/combined.log
+/Server/error.log

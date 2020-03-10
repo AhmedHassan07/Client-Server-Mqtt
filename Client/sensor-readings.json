@@ -1,0 +1,57 @@
+[
+  {
+    "speed": "0",
+    "iginition": 0,
+    "car": "Honda"
+  },
+  {
+    "speed": "10",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "20",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "30",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "40",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "50",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "60",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "70",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "80",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "90",
+    "iginition": 1,
+    "car": "Honda"
+  },
+  {
+    "speed": "100",
+    "iginition": 1,
+    "car": "Honda"
+  }
+]

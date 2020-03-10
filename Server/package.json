@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server side to receive sensor data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index --exec babel-node -e js",
+    "test": "test"
+  },
+  "keywords": [
+    "server",
+    "mqtt",
+    "logging"
+  ],
+  "author": "Ahmed Hassan",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "async-mqtt": "^2.5.0",
+    "winston": "^3.2.1"
+  }
+}
