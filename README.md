@@ -4,7 +4,7 @@ How To Run?
 For Client side 
 cd Client
 Then run npm i command
-after intalling debypedencies run client side by command npm start
+after intalling depedencies run client side by command npm start
 
 Same Steps are for Server side.
 
